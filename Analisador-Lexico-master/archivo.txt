@@ -1,0 +1,11 @@
+
+iNICIO
+	Aghtudt := 5	B := 10
+	ESCRIBIR A
+	ESCRIBIR B
+	LEER C 
+	SI C < A + B ENTONCES
+		ESCRIBIR A + B
+	SINO
+		ESCRIBIR C
+FIN
